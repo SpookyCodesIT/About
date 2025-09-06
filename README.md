@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Outburst72
-- 👀 I’m interested in Scripting and Developing of apps
-- 🌱 I’m currently learning C++, JavaScript, HTML, PHP, CSS, Python, Lua
+- 👋 Hi, I’m @SpookyCodesIT
+- 👀 I’m interested in Scripting and Developing of apps, bots and websites
+- 🌱 I’m currently learning JavaScript, HTML, PHP, CSS, Python, Lua
 - 📫 How to reach me Email: spookycodes.com@gmail.com
 
 <!---
